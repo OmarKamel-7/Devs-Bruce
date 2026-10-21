@@ -8,6 +8,9 @@ A Board for Bruce firmware that has everything and easy to be assembled
 
 (Gerber, bom, pick&place, source files are all included in the repo)
 
+## why I made this
+i made this because i wanted a bruce board portable every where to test the rf and the some other stuff
+
 ## features in the board:
 2.4ghz ,
 
