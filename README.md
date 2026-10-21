@@ -1,6 +1,9 @@
 # Devs-Bruce
 The Best Bruce Board You can Diy
 
+<img width="597" height="224" alt="bruce" src="https://github.com/user-attachments/assets/bf4534b8-d315-40e9-8db1-ba7048f8cf06" />
+
+
 A Board for Bruce firmware that has everything and easy to be assembled
 
 (Gerber, bom, pick&place, source files are all included in the repo)
