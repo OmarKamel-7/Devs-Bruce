@@ -34,3 +34,15 @@ bad usb
 <img width="1270" height="696" alt="Screenshot From 2026-10-22 01-50-14" src="https://github.com/user-attachments/assets/30cc6a22-4f11-45ed-b01a-76c62132ee42" />
 
 <img width="1270" height="696" alt="Screenshot From 2026-10-22 01-50-34" src="https://github.com/user-attachments/assets/8f9cf1b2-6d9b-4ac1-892e-a05e8cea769e" />
+
+
+
+PCB Price on Jlcpcb partially assembled 
+<img width="1938" height="762" alt="Screenshot From 2026-10-22 01-58-12" src="https://github.com/user-attachments/assets/f77ed827-3fc6-4970-b56b-395c3c91e82f" />
+
+the main modules price on my local amazon
+
+<img width="1938" height="762" alt="Screenshot From 2026-10-22 01-58-12" src="https://github.com/user-attachments/assets/91d6e57c-5cf6-4bea-94a0-01d716a045d0" />
+
+
+
