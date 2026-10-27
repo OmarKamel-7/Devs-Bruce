@@ -36,6 +36,8 @@ screen, nrf , ir just the caps and the esp32 and the type c
 
 the firmware does not belong to me i can only add the bin file for the firmware that will be used
 
+i cant edit to the bom file to be as the jlcpcb site format I have added an external site that has the the parts (local supplier)
+
 ## features in the board:
 2.4ghz ,
 
